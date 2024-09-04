@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "stm32f1xx_hal_eth.h": "c",
+        "stm32f1xx_hal_can_legacy.h": "c",
+        "stm32f1xx_hal_cec.h": "c",
+        "stm32f1xx_hal_cortex.h": "c",
+        "stm32f1xx_hal_def.h": "c",
+        "stm32f1xx_hal_flash.h": "c",
+        "stm32f1xx_hal_sram.h": "c",
+        "stm32f1xx_hal_nor.h": "c",
+        "stm32f1xx_hal_iwdg.h": "c",
+        "stm32f1xx_hal_pwr.h": "c",
+        "stm32f1xx_hal_rtc.h": "c",
+        "stm32f1xx_hal_tim.h": "c",
+        "stm32f1xx_hal_irda.h": "c",
+        "stm32f1xx_hal_pcd.h": "c"
+    }
+}

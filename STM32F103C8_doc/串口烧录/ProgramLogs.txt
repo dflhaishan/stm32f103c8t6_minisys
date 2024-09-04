@@ -1,0 +1,6 @@
+[2024-04-13 18:47:Program Success:56FF6B064966485620470367 C:\Users\haishan\Desktop\zephyr.hex
+[2024-04-13 18:49:Program Success:56FF6B064966485620470367 D:\STM32F103C8T6_minisys\demo1\demo1\MDK-ARM\demo1\mr-library.hex
+[2024-04-13 18:51:Program Success:56FF6B064966485620470367 C:\Users\haishan\Desktop\zephyr.hex
+[2024-04-13 20:07:Program Success:31FFD3055250303610821343 D:\Alientek_sm32f103zet6\example_alienek\3_HAL_example_version\3_HAL_example_version\01_blinkled\OBJ\LED.hex
+[2024-04-13 20:10:Program Success:31FFD3055250303610821343 D:\Alientek_sm32f103zet6\example_alienek\3_HAL_example_version\3_HAL_example_version\01_blinkled\OBJ\LED.hex
+[2024-04-13 20:15:Program Success:31FFD3055250303610821343 D:\Alientek_sm32f103zet6\example_alienek\3_HAL_example_version\3_HAL_example_version\01_blinkled\OBJ\LED.hex
